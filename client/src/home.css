@@ -1,0 +1,92 @@
+/* #category
+{
+    border: 2px solid black;
+    padding: 1%;
+    border-radius: 20px 0px 0px 20px;
+} */
+/* #search-box
+{
+    padding: 1% 8%;
+    border: 1px solid black;
+} */
+/* #search-button
+{
+    padding: 1% 3%;
+    border:1px solid black;
+    border-radius: 0px 20px 20px 0px;
+    /* background-color: dodgerblue; */
+
+/* } */ 
+/* #options
+{
+    text-align: left;
+} */
+/* #fp1
+{
+    margin-top:50px;
+} */
+/* .filter-options-container
+{
+    padding-top:5%;
+} */
+/* #filter-button
+{
+    margin: 0% 1%;
+    padding: 0% 2%;
+    border: 1px solid dodgerblue;
+    border-radius: 5px;
+    background-color: dodgerblue;
+} */
+#card-parent
+{
+    padding:30px 30px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    /* justify-content:space-evenly; */
+    /* justify-content:center; */
+}
+#card-home
+{
+    width:355px ;
+    min-height:0px;
+    max-height:1000px;
+    height:100%;
+    padding:15px;
+    margin:65px;
+    box-shadow:0px 0px 20px black;
+}
+#card-home:hover
+{
+  cursor: pointer;
+}
+#card-home>p
+{
+    text-align: left;
+}
+.category-text
+{
+    margin: 10px;
+    font-size: 20px;
+}
+.empty-product-message-container
+{
+    width:100%;
+    padding: 5% 0%;
+}
+#empty-products-message
+{
+    color: red;
+    text-align: center;
+}
+/* carousel */
+.carousel-cont
+{
+    width:100%;
+    /* height:100px; */
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon
+{
+  color:white ;
+}

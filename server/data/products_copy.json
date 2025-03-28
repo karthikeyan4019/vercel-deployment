@@ -1,0 +1,303 @@
+[
+    {
+        "category":"fruits",
+        "productName":"apple",
+        "brand":"kpn fresh",
+        "price":210,
+        "origin":"jammu kashmir",
+        "seller":"amazon",
+        "stock":100
+    },
+    {
+        "category":"fruits",
+        "productName":"orange",
+        "brand":"himalaya fruits",
+        "price":110,
+        "origin":"jammu kashmir",
+        "seller":"amazon",
+        "stock":120
+    },
+    {
+        "category":"fruits",
+        "productName":"strawberry",
+        "brand":"kpn fresh",
+        "price":250,
+        "origin":"jammu kashmir",
+        "seller":"amazon",
+        "stock":130
+    },
+    {
+        "category":"fruits",
+        "productName":"grapes",
+        "brand":"kpn fresh",
+        "price":120,
+        "origin":"jammu kashmir",
+        "seller":"amazon",
+        "stock":130
+    },
+    {
+        "category":"fruits",
+        "productName":"Gooseberry",
+        "brand":"kpn fresh",
+        "price":70,
+        "origin":"jammu kashmir",
+        "seller":"amazon",
+        "stock":130
+    },
+    {
+        "category":"clothes",
+        "productName":"t-shirt",
+        "brand":"levis",
+        "price":450,
+        "origin":"england",
+        "seller":"amazon",
+        "stock":130
+    },
+    {
+        "category":"clothes",
+        "productName":"black jean",
+        "brand":"zara",
+        "price":700,
+        "origin":"australia",
+        "seller":"amazon",
+        "stock":170
+    },
+    {
+        "category":"clothes",
+        "productName":"blue checked shirt",
+        "brand":"zudio",
+        "price":340,
+        "origin":"india",
+        "seller":"amazon",
+        "stock":200
+    },
+    {
+        "category":"clothes",
+        "productName":"black t-shirt",
+        "brand":"zudio",
+        "price":550,
+        "origin":"india",
+        "seller":"amazon",
+        "stock":200
+    },
+    {
+        "category":"clothes",
+        "productName":"blue shirt",
+        "brand":"west side",
+        "price":1200,
+        "origin":"india",
+        "seller":"amazon",
+        "stock":200
+    },
+    {
+        "category":"electronics",
+        "productName":"bluetooth speaker",
+        "brand":"boat",
+        "price":1250,
+        "origin":"india",
+        "seller":"amazon",
+        "stock":30
+    },
+    {
+        "category":"electronics",
+        "productName":"home theatre",
+        "brand":"sony",
+        "price":2050,
+        "origin":"japan",
+        "seller":"amazon",
+        "stock":75
+    },
+    {
+        "category":"electronics",
+        "productName":"earbuds",
+        "brand":"boult",
+        "price":1800,
+        "origin":"south korea",
+        "seller":"amazon",
+        "stock":75
+    },
+    {
+        "category":"electronics",
+        "productName":"headphone",
+        "brand":"sony",
+        "price":3500,
+        "origin":"japan",
+        "seller":"amazon",
+        "stock":75
+    },
+    {
+        "category":"electronics",
+        "productName":"headset",
+        "brand":"sony",
+        "price":1200,
+        "origin":"japan",
+        "seller":"amazon",
+        "stock":75
+    },
+    {
+        "category":"Laptops",
+        "productName":"ASUS Vivobook",
+        "productDetails":"16 inch FHD+, 144Hz 300nits, Intel Core i5-12500H 2.5 GHz, Creator/Gaming Laptop (16GB RAM/512GB SSD/RTX 3050/win 11/Office Home/50WHr Battery/Cool Silver/1.80 kg), K3605ZC-RP587WS",
+        "imagePath":"/images/laptops/asus-1.jpg",
+        "storeName":"Asus",
+        "brandWebsiteUrl":"https://www.asus.com/in/store/",
+        "lastMonthSale":200,
+        "discount":30,
+        "price":59990
+    },
+    {
+        "category":"Laptops",
+        "productName":"Acer ALG",
+        "productDetails":"Gaming Laptop 12th Gen Intel Core i5 Processor (16GB RAM/512GB SSD/6GB RTX3050/144Hz/Win11Home/Wifi 6) AL15G-52, 39.62cm (15.6 inch) Full HD, Premium Metal Body, Steel Gray, 1.99KG",
+        "imagePath":"/images/laptops/acer-1.jpg",
+        "storeName":"Acer",
+        "brandWebsiteUrl":"https://store.acer.com/en-in/?srsltid=AfmBOoqEA5CpwlNLS5S4NsBTmlL2rt7Kzq-CRBw2LlxWC7lT-u_2z0Im",
+        "lastMonthSale":50,
+        "discount":35,
+        "price":60090
+    },
+    {
+        "category":"Laptops",
+        "productName":"HP 15s",
+        "productDetails":"12th Gen Intel Core i5-1235U, 8GB DDR4, 512GB SSD, 15.6 inch(39.6cm), Anti-Glare, FHD Laptop, Intel UHD Graphics, Backlit KB, 720p HD Camera (Win 11, Office 21, Silver, 1.69kg) fq5329TU",
+        "imagePath":"/images/laptops/hp-1.jpg",
+        "storeName":"HP",
+        "brandWebsiteUrl":"https://www.hp.com/in-en/shop/laptops-tablets/intel-laptops.html?gad_source=1&gclid=CjwKCAiA65m7BhAwEiwAAgu4JFa3fd6LckRR_eAxLb8-KQYC_GyB5_U0ZoP1lzuDgw98FfiC5D_ZBxoCDNQQAvD_BwE&gclsrc=aw.ds&jumpid=ps_in_go_st_hc_cm018701_cv_aq_bps&subbrand=z-by-hp",
+        "lastMonthSale":100,
+        "discount":29,
+        "price":46490
+    },
+    {
+        "category":"Laptops",
+        "productName":"Apple 2024 MacBook Air",
+        "productDetails":"15 inch Laptop with M3 chip: 38.91 cm (15.3″) Liquid Retina Display, 16GB Unified Memory, 512GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera, Touch ID- Midnight",
+        "imagePath":"/images/laptops/apple-2.jpg",
+        "storeName":"Apple",
+        "brandWebsiteUrl":"https://www.apple.com/in/mac/?afid=p238%7CsUGVf2IN2-dc_mtid_187079nc38483_pcrid_724461609975_pgrid_109263622773_pntwk_g_pchan__pexid__ptid_kwd-323492926067_&cid=aos-IN-kwgo-mac--slid---product-",
+        "lastMonthSale":100,
+        "discount":11,
+        "price":154900
+    },
+    {
+        "category":"Laptops",
+        "productName":"Samsung Galaxy Book4",
+        "productDetails":"(Silver, 16GB RAM, 512GB SSD) | 15.6 inch Full HD Screen | Intel Core 5 120U Processor | Windows 11 Home | MS Office 2021 | Fingerprint Reader | Intel Iris XE Graphics | RJ45 LAN Port",
+        "imagePath":"/images/laptops/samsung-1.jpg",
+        "storeName":"Samsung",
+        "brandWebsiteUrl":"https://www.samsung.com/in/computers/galaxy-book/galaxy-book4-pro/buy/?cid=in_pd_search_google_laptop_sustenance_gb4-sus-q4-2024_text_09oct2024-na_1ur-457856l-keyword-cpc_na-716387528332-21785801940-167313364726-kwd-306630440120-samsung%20windows%20laptop-e--g--&gad_source=1&gclid=CjwKCAiA65m7BhAwEiwAAgu4JI_n8KzpErSNhmZAXK4zxumDiuohjjpRZ-xpWO3eTFYXrse3IYfMpBoCZqgQAvD_BwE",
+        "lastMonthSale":200,
+        "discount":37,
+        "price":58190
+    },
+    {
+        "category":"Laptops",
+        "productName":"Dell Inspiron 3520",
+        "productDetails":"12th Gen Intel Core i3-1215 Processor, 8GB, 512GB SSD, 15.6 inch (39.62Cms FHD, Win 11 + MSO 21, Silver, 15 Month McAfee Antivirus, Thin & Light-1.65kg",
+        "imagePath":"/images/laptops/dell-1.jpg",
+        "storeName":"Dell",
+        "brandWebsiteUrl":"https://www.dell.com/en-in/shop/scc/scr/laptops?gacd=10415953-13089-5761040-285981356-0&dgc=ST&&gad_source=1&gclid=CjwKCAiA65m7BhAwEiwAAgu4JHF9vSTEPJ6va4Akm8d0A7uFEOepzWGpta0GsxywwU4xBkL5Lg8G6RoCOmIQAvD_BwE&gclsrc=aw.ds",
+        "lastMonthSale":50,
+        "discount":33,
+        "price":34990
+    },
+    {
+        "category":"Mobiles",
+        "productName":"Samsung Galaxy S23 Ultra",
+        "productDetails":"Green | 12GB RAM | 256GB Storage | Experience the power of Galaxy AI with S23 Ultra | AMOLED display | USB Type C to C Cable in the charger box",
+        "imagePath":"/images/mobile-phones/samsung-1.jpg",
+        "storeName":"Samsung",
+        "brandWebsiteUrl":"https://www.samsung.com/in/",
+        "lastMonthSale":1000,
+        "discount":51,
+        "price":72999
+    },
+    {
+        "category":"Mobiles",
+        "productName":"OnePlus 12",
+        "productDetails":"Silky Black | 6.1 Inches | 16GB RAM |512GB Storage | Snapdragon | OLED display | 2K video capture resolution | OxygenOS | 220 g weight ",
+        "imagePath":"/images/mobile-phones/one-plus-1.jpg",
+        "storeName":"OnePlus",
+        "brandWebsiteUrl":"https://www.oneplus.in/store?gad_source=1&gclid=CjwKCAiA65m7BhAwEiwAAgu4JDwvzBSDUWxAaZNfIMRHeg5qDfyNGSeU-7l6NOo9glW0ROCNIF5sNhoCXOoQAvD_BwE",
+        "lastMonthSale":400,
+        "discount":7,
+        "price":64999
+    },
+    {
+        "category":"Mobiles",
+        "productName":"realme NARZO N65 5G",
+        "productDetails":"(Deep Green 6GB RAM, 128GB Storage) India's 1st D6300 5G Chipset | Ultra Slim Design | 120Hz Eye Comfort Display | 50MP AI Camera| Charger in The Box",
+        "imagePath":"/images/mobile-phones/realme-1.jpg",
+        "storeName":"Realme",
+        "brandWebsiteUrl":"https://www.realme.com/in/realme-phones",
+        "lastMonthSale":5000,
+        "discount":17,
+        "price":12498
+    },
+    {
+        "category":"Mobiles",
+        "productName":"iPhone 16 Pro",
+        "productDetails":"256 GB | 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life | Works with AirPods | Black Titanium",
+        "imagePath":"/images/mobile-phones/iphone-1.jpg",
+        "storeName":"Apple",
+        "brandWebsiteUrl":"https://www.apple.com/in/iphone/",
+        "lastMonthSale":100,
+        "discount":2,
+        "price":126900
+    },
+    {
+        "category":"Mobiles",
+        "productName":"Redmi Note 13 pro 5g",
+        "productDetails":"Scarlet red |8gb | 256gb | 6.67 Inches | 120 Hz AMOLED 1.5K Display with Corning Gorilla Glass Victus | 200MP Main Camera with Samsung ISOCELL HP3 sensor",
+        "imagePath":"/images/mobile-phones/redmi-2.jpg",
+        "storeName":"Redmi",
+        "brandWebsiteUrl":"https://www.mi.com/in/product/redmi-note-14-5g/?skupanel=1&gid=4224100605&utm_source=Google_Paid&utm_medium=GDN&utm_campaign=[A_Br_pmax_Xiaomi_DM-B_pmax_RedmiNote14_First-Sale_Mstore_20241213&gad_source=1&gclid=CjwKCAiA65m7BhAwEiwAAgu4JGeNP_LJ4Kf3bmhFHseyZi4wXuEYj9FOWNVjfvVmO1bZN3O61CYHexoCe4gQAvD_BwE",
+        "lastMonthSale":400,
+        "discount":37,
+        "price":19650
+    },
+    {
+        "category":"Mobiles",
+        "productName":"iQOO Z9s Pro 5G",
+        "productDetails":"Flamboyant Orange | 8GB RAM | 128GB Storage | Snapdragon 7 Gen 3 Processor | 120 Hz Curved AMOLED Display with 4500 nits Local Peak Brightness | 5500 mAh Battery | AI Erase",
+        "imagePath":"/images/mobile-phones/iqoo-1.jpg",
+        "storeName":"Iqoo",
+        "brandWebsiteUrl":"https://shop.iqoo.com/in/products/phone",
+        "lastMonthSale":1000,
+        "discount":17,
+        "price":24999
+    },
+    
+    {
+        "category":"Cameras",
+        "productName":"Fujifilm X-T50",
+        "productDetails":"40 MP APS-C X-Trans Sensor | Retro Style mirrorless Camera | 4k/6.2k vlogging | High Speed Recording FHD 240fps | Advance AF with 16-50mm Optical Zoom Lens f/2.8-4.8 - Charcoal",
+        "imagePath":"/images/cameras/fujifilm-1.jpg",
+        "storeName":"Fijifilm",
+        "brandWebsiteUrl":"https://fujifilmxindia.com/?gad_source=1&gclid=CjwKCAiA65m7BhAwEiwAAgu4JDgoZle3yGiugEo5tHb9Dl1FgAHYAHZtrGK-ZFylaLR1m6dj1m9WtBoCo3YQAvD_BwE",
+        "lastMonthSale":50,
+        "discount":12,
+        "price":170500
+    },
+    {
+        "category":"Cameras",
+        "productName":"Canon EOS R10",
+        "productDetails":"24.2MP RF-S18-150 F/3.5-6.3 IS STM Mirrorless Camera (APS-C Sendor, 4K UHD Video) for Wedding & Content Creators - Black",
+        "imagePath":"/images/cameras/canon-1.jpg",
+        "storeName":"Canon",
+        "brandWebsiteUrl":"https://in.canon/en/consumer",
+        "lastMonthSale":50,
+        "discount":21,
+        "price":94990
+    },
+    {
+        "category":"Cameras",
+        "productName":"Sony Alpha ILCE-6100L",
+        "productDetails":"16-50mm Lens | 24.2 MP | Fast Auto Focus, Real-time Eye AF, Real-time Tracking | 4K Vlogging Camera - Black",
+        "imagePath":"/images/cameras/sony-2.jpg",
+        "storeName":"Sony",
+        "brandWebsiteUrl":"https://www.sony.co.in/interchangeable-lens-cameras/products/ilce-7m4?locale=en_IN&cid=sem-in-23443&gad_source=1&gclid=CjwKCAiAyJS7BhBiEiwAyS9uNakn3RdEiI8fB5-980S2a0NK-BLe68r8avSCuJxzcsZPhfTHE321GhoC3K0QAvD_BwE",
+        "lastMonthSale":100,
+        "discount":2,
+        "price":75990
+    }
+]

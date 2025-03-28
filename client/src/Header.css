@@ -1,0 +1,118 @@
+*
+{
+    font-family: "Signika Negative", sans-serif;
+    font-optical-sizing: auto;
+    /* font-weight: <weight>;
+    font-style: normal; */
+}
+nav
+{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    padding: 17px 10px;
+    box-shadow:0px 0px 5px black;
+}
+.brand-logo
+{
+    width:10%;
+    padding-bottom: 2px;
+}
+.home-button
+{
+  width:5%;
+}
+h1
+{
+    margin:0px;
+}
+a
+{
+  text-decoration: none;
+}
+#category
+{
+    border: 2px solid black;
+    padding: 2%;
+    border-radius: 13px 0px 0px 13px;
+}
+#search-box
+{
+    padding: 2% 23%;
+    border: 1px solid black;
+}
+#search-button
+{
+    padding: 2% 4%;
+    border:1px solid black;
+    border-radius: 0px 13px 13px 0px;
+    /* background-color: dodgerblue; */
+
+}
+.nav-links
+{
+    color: black;
+    display:flex;
+}
+.home
+{
+    font-size:32px;
+}
+.nav-link-text
+{
+    margin: 0px 7px;
+}
+#options
+{
+    text-align: left;
+}
+#fp1
+{
+    /* flex-grow:1; */
+    width:50%;
+}
+/* .filter-options-container
+{
+    /* padding-top:5%; */
+    /* padding: 15px; */
+    /* background-color: #d0e8ff; */
+/* } */ 
+/* #filter-button
+{
+    margin: 0% 1%;
+    padding: 0% 2%;
+    border: 1px solid dodgerblue;
+    border-radius: 5px;
+    background-color: dodgerblue;
+} */
+#card-parent
+{
+    padding:30px 30px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    /* justify-content:space-evenly; */
+    /* justify-content:center; */
+}
+#card
+{
+    width:355px ;
+    height: 310px;
+    padding:40px;
+    margin:65px;
+    box-shadow:0px 0px 20px black;
+}
+#card>p
+{
+    text-align: left;
+}
+.empty-product-message-container
+{
+    width:100%;
+    padding: 5% 0%;
+}
+#empty-products-message
+{
+    color: red;
+    text-align: center;
+}

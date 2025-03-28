@@ -1,0 +1,404 @@
+[
+    {
+        "category":"Laptops",
+        "productName":"ASUS Vivobook",
+        "productDetails":"16 inch FHD+, 144Hz 300nits, Intel Core i5-12500H 2.5 GHz, Creator/Gaming Laptop (16GB RAM/512GB SSD/RTX 3050/win 11/Office Home/50WHr Battery/Cool Silver/1.80 kg), K3605ZC-RP587WS",
+        "imagePath":"/images/laptops/asus-1.jpg",
+        "storeName":"Asus",
+        "brandWebsiteUrl":"https://www.asus.com/in/store/",
+        "lastMonthSale":200,
+        "discount":30,
+        "price":59990
+    },
+    {
+        "category":"Laptops",
+        "productName":"Acer ALG",
+        "productDetails":"Gaming Laptop 12th Gen Intel Core i5 Processor (16GB RAM/512GB SSD/6GB RTX3050/144Hz/Win11Home/Wifi 6) AL15G-52, 39.62cm (15.6 inch) Full HD, Premium Metal Body, Steel Gray, 1.99KG",
+        "imagePath":"/images/laptops/acer-1.jpg",
+        "storeName":"Acer",
+        "brandWebsiteUrl":"https://store.acer.com/en-in/?srsltid=AfmBOoqEA5CpwlNLS5S4NsBTmlL2rt7Kzq-CRBw2LlxWC7lT-u_2z0Im",
+        "lastMonthSale":50,
+        "discount":35,
+        "price":60090
+    },
+    {
+        "category":"Laptops",
+        "productName":"HP 15s",
+        "productDetails":"12th Gen Intel Core i5-1235U, 8GB DDR4, 512GB SSD, 15.6 inch(39.6cm), Anti-Glare, FHD Laptop, Intel UHD Graphics, Backlit KB, 720p HD Camera (Win 11, Office 21, Silver, 1.69kg) fq5329TU",
+        "imagePath":"/images/laptops/hp-1.jpg",
+        "storeName":"HP",
+        "brandWebsiteUrl":"https://www.hp.com/in-en/shop/laptops-tablets/intel-laptops.html?gad_source=1&gclid=CjwKCAiA65m7BhAwEiwAAgu4JFa3fd6LckRR_eAxLb8-KQYC_GyB5_U0ZoP1lzuDgw98FfiC5D_ZBxoCDNQQAvD_BwE&gclsrc=aw.ds&jumpid=ps_in_go_st_hc_cm018701_cv_aq_bps&subbrand=z-by-hp",
+        "lastMonthSale":100,
+        "discount":29,
+        "price":46490
+    },
+    {
+        "category":"Laptops",
+        "productName":"Apple 2024 MacBook Air",
+        "productDetails":"15 inch Laptop with M3 chip: 38.91 cm (15.3″) Liquid Retina Display, 16GB Unified Memory, 512GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera, Touch ID- Midnight",
+        "imagePath":"/images/laptops/apple-2.jpg",
+        "storeName":"Apple",
+        "brandWebsiteUrl":"https://www.apple.com/in/mac/?afid=p238%7CsUGVf2IN2-dc_mtid_187079nc38483_pcrid_724461609975_pgrid_109263622773_pntwk_g_pchan__pexid__ptid_kwd-323492926067_&cid=aos-IN-kwgo-mac--slid---product-",
+        "lastMonthSale":100,
+        "discount":11,
+        "price":154900
+    },
+    {
+        "category":"Laptops",
+        "productName":"Samsung Galaxy Book4",
+        "productDetails":"(Silver, 16GB RAM, 512GB SSD) | 15.6 inch Full HD Screen | Intel Core 5 120U Processor | Windows 11 Home | MS Office 2021 | Fingerprint Reader | Intel Iris XE Graphics | RJ45 LAN Port",
+        "imagePath":"/images/laptops/samsung-1.jpg",
+        "storeName":"Samsung",
+        "brandWebsiteUrl":"https://www.samsung.com/in/computers/galaxy-book/galaxy-book4-pro/buy/?cid=in_pd_search_google_laptop_sustenance_gb4-sus-q4-2024_text_09oct2024-na_1ur-457856l-keyword-cpc_na-716387528332-21785801940-167313364726-kwd-306630440120-samsung%20windows%20laptop-e--g--&gad_source=1&gclid=CjwKCAiA65m7BhAwEiwAAgu4JI_n8KzpErSNhmZAXK4zxumDiuohjjpRZ-xpWO3eTFYXrse3IYfMpBoCZqgQAvD_BwE",
+        "lastMonthSale":200,
+        "discount":37,
+        "price":58190
+    },
+    {
+        "category":"Laptops",
+        "productName":"Dell Inspiron 3520",
+        "productDetails":"12th Gen Intel Core i3-1215 Processor, 8GB, 512GB SSD, 15.6 inch (39.62Cms FHD, Win 11 + MSO 21, Silver, 15 Month McAfee Antivirus, Thin & Light-1.65kg",
+        "imagePath":"/images/laptops/dell-1.jpg",
+        "storeName":"Dell",
+        "brandWebsiteUrl":"https://www.dell.com/en-in/shop/scc/scr/laptops?gacd=10415953-13089-5761040-285981356-0&dgc=ST&&gad_source=1&gclid=CjwKCAiA65m7BhAwEiwAAgu4JHF9vSTEPJ6va4Akm8d0A7uFEOepzWGpta0GsxywwU4xBkL5Lg8G6RoCOmIQAvD_BwE&gclsrc=aw.ds",
+        "lastMonthSale":50,
+        "discount":33,
+        "price":34990
+    },
+    {
+        "category":"Mobiles",
+        "productName":"Samsung Galaxy S23 Ultra",
+        "productDetails":"Green | 12GB RAM | 256GB Storage | Experience the power of Galaxy AI with S23 Ultra | AMOLED display | USB Type C to C Cable in the charger box",
+        "imagePath":"/images/mobile-phones/samsung-1.jpg",
+        "storeName":"Samsung",
+        "brandWebsiteUrl":"https://www.samsung.com/in/",
+        "lastMonthSale":1000,
+        "discount":51,
+        "price":72999
+    },
+    {
+        "category":"Mobiles",
+        "productName":"OnePlus 12",
+        "productDetails":"Silky Black | 6.1 Inches | 16GB RAM |512GB Storage | Snapdragon | OLED display | 2K video capture resolution | OxygenOS | 220 g weight ",
+        "imagePath":"/images/mobile-phones/one-plus-1.jpg",
+        "storeName":"OnePlus",
+        "brandWebsiteUrl":"https://www.oneplus.in/store?gad_source=1&gclid=CjwKCAiA65m7BhAwEiwAAgu4JDwvzBSDUWxAaZNfIMRHeg5qDfyNGSeU-7l6NOo9glW0ROCNIF5sNhoCXOoQAvD_BwE",
+        "lastMonthSale":400,
+        "discount":7,
+        "price":64999
+    },
+    {
+        "category":"Mobiles",
+        "productName":"realme NARZO N65 5G",
+        "productDetails":"(Deep Green 6GB RAM, 128GB Storage) India's 1st D6300 5G Chipset | Ultra Slim Design | 120Hz Eye Comfort Display | 50MP AI Camera| Charger in The Box",
+        "imagePath":"/images/mobile-phones/realme-1.jpg",
+        "storeName":"Realme",
+        "brandWebsiteUrl":"https://www.realme.com/in/realme-phones",
+        "lastMonthSale":5000,
+        "discount":17,
+        "price":12498
+    },
+    {
+        "category":"Mobiles",
+        "productName":"iPhone 16 Pro",
+        "productDetails":"256 GB | 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life | Works with AirPods | Black Titanium",
+        "imagePath":"/images/mobile-phones/iphone-1.jpg",
+        "storeName":"Apple",
+        "brandWebsiteUrl":"https://www.apple.com/in/iphone/",
+        "lastMonthSale":100,
+        "discount":2,
+        "price":126900
+    },
+    {
+        "category":"Mobiles",
+        "productName":"Redmi Note 13 pro 5g",
+        "productDetails":"Scarlet red |8gb | 256gb | 6.67 Inches | 120 Hz AMOLED 1.5K Display with Corning Gorilla Glass Victus | 200MP Main Camera with Samsung ISOCELL HP3 sensor",
+        "imagePath":"/images/mobile-phones/redmi-2.jpg",
+        "storeName":"Redmi",
+        "brandWebsiteUrl":"https://www.mi.com/in/product/redmi-note-14-5g/?skupanel=1&gid=4224100605&utm_source=Google_Paid&utm_medium=GDN&utm_campaign=[A_Br_pmax_Xiaomi_DM-B_pmax_RedmiNote14_First-Sale_Mstore_20241213&gad_source=1&gclid=CjwKCAiA65m7BhAwEiwAAgu4JGeNP_LJ4Kf3bmhFHseyZi4wXuEYj9FOWNVjfvVmO1bZN3O61CYHexoCe4gQAvD_BwE",
+        "lastMonthSale":400,
+        "discount":37,
+        "price":19650
+    },
+    {
+        "category":"Mobiles",
+        "productName":"iQOO Z9s Pro 5G",
+        "productDetails":"Flamboyant Orange | 8GB RAM | 128GB Storage | Snapdragon 7 Gen 3 Processor | 120 Hz Curved AMOLED Display with 4500 nits Local Peak Brightness | 5500 mAh Battery | AI Erase",
+        "imagePath":"/images/mobile-phones/iqoo-1.jpg",
+        "storeName":"Iqoo",
+        "brandWebsiteUrl":"https://shop.iqoo.com/in/products/phone",
+        "lastMonthSale":1000,
+        "discount":17,
+        "price":24999
+    },
+    
+    {
+        "category":"Cameras",
+        "productName":"Fujifilm X-T50",
+        "productDetails":"40 MP APS-C X-Trans Sensor | Retro Style mirrorless Camera | 4k/6.2k vlogging | High Speed Recording FHD 240fps | Advance AF with 16-50mm Optical Zoom Lens f/2.8-4.8 - Charcoal",
+        "imagePath":"/images/cameras/fujifilm-1.jpg",
+        "storeName":"Fijifilm",
+        "brandWebsiteUrl":"https://fujifilmxindia.com/?gad_source=1&gclid=CjwKCAiA65m7BhAwEiwAAgu4JDgoZle3yGiugEo5tHb9Dl1FgAHYAHZtrGK-ZFylaLR1m6dj1m9WtBoCo3YQAvD_BwE",
+        "lastMonthSale":50,
+        "discount":12,
+        "price":170500
+    },
+    {
+        "category":"Cameras",
+        "productName":"Canon EOS R10",
+        "productDetails":"24.2MP RF-S18-150 F/3.5-6.3 IS STM Mirrorless Camera (APS-C Sendor, 4K UHD Video) for Wedding & Content Creators - Black",
+        "imagePath":"/images/cameras/canon-1.jpg",
+        "storeName":"Canon",
+        "brandWebsiteUrl":"https://in.canon/en/consumer",
+        "lastMonthSale":50,
+        "discount":21,
+        "price":94990
+    },
+    {
+        "category":"Cameras",
+        "productName":"Nikon D7500",
+        "productDetails":"20.9MP Digital SLR Camera (Black) with AF-S DX NIKKOR 18-140mm f/3.5-5.6G ED VR Lens",
+        "imagePath":"/images/cameras/nikon-1.jpg",
+        "storeName":"Nikon",
+        "brandWebsiteUrl":"https://www.nikon.co.in/mirrorless-z6iii?utm_source=EG-Google-Search-Z6III&utm_medium=CPC&utm_campaign=Nikon-Z6III-Search&gad_source=1&gclid=CjwKCAiA65m7BhAwEiwAAgu4JC6KaMJTyog9CMEl4EbgndpVWgyOStIrf1hIwsKBSNhCAvVa1Ly9ihoC3jkQAvD_BwE",
+        "lastMonthSale":50,
+        "discount":15,
+        "price":80734
+    },
+    {
+        "category":"Cameras",
+        "productName":"KODAK PIXPRO AZ405-BK",
+        "productDetails":"20MP Digital Camera 40X Optical Zoom 24mm Wide Angle Lens Optical Image Stabilization 1080P Full HD Video 3 LCD Vlogging Camera (Black)",
+        "imagePath":"/images/cameras/kodak-1.jpg",
+        "storeName":"kodak",
+        "brandWebsiteUrl":"https://www.kodak.com/en/consumer/products/cameras/",
+        "lastMonthSale":50,
+        "discount":77,
+        "price":25340
+    },
+    {
+        "category":"Cameras",
+        "productName":"Sony Alpha ILCE-6100L",
+        "productDetails":"16-50mm Lens | 24.2 MP | Fast Auto Focus, Real-time Eye AF, Real-time Tracking | 4K Vlogging Camera - Black",
+        "imagePath":"/images/cameras/sony-2.jpg",
+        "storeName":"Sony",
+        "brandWebsiteUrl":"https://www.sony.co.in/interchangeable-lens-cameras/products/ilce-7m4?locale=en_IN&cid=sem-in-23443&gad_source=1&gclid=CjwKCAiAyJS7BhBiEiwAyS9uNakn3RdEiI8fB5-980S2a0NK-BLe68r8avSCuJxzcsZPhfTHE321GhoC3K0QAvD_BwE",
+        "lastMonthSale":100,
+        "discount":2,
+        "price":75990
+    },
+  
+    {
+        "category":"Cameras",
+        "productName":"Fujifilm X-T30",
+        "productDetails":"26.1MP APS-C X-trans sensor | retro style mirrorless camera | 4k vlogging | High speed recording FHD 240fps | Advance AF with 15-45mm optical zoom lens f/3.5-5.6 for Street/Lifestyle -Silver",
+        "imagePath":"/images/cameras/fujifilm-2.jpg",
+        "storeName":"Fujifilm",
+        "brandWebsiteUrl":"https://fujifilmxindia.com/?gad_source=1&gclid=CjwKCAiA65m7BhAwEiwAAgu4JJsiS2njIio0G8Gx4oe5diQUvnU-2Fe0vMa-_gycdRHbTczMnp62axoC0YsQAvD_BwE",
+        "lastMonthSale":50,
+        "discount":7,
+        "price":93000
+    },
+  
+    {
+        "category":"Furniture",
+        "productName":"Winntage Dining Table",
+        "productDetails":"Winntage Furniture Sheesham Wood 4 Seater Dining Table Set Wooden Dining Table with Chair for Living Room (Honey Finish) | 1 Year Warranty",
+        "imagePath":"/images/furnitures/dining-table-1.jpg",
+        "storeName":"Winntage",
+        "brandWebsiteUrl":"https://www.amazon.in/stores/WINNTAGE/page/FA047214-DA00-4339-895B-2CBFA43C1DF9?ref_=ast_bln",
+        "lastMonthSale":100,
+        "discount":42,
+        "price":16999
+    },
+    {
+        "category":"Furniture",
+        "productName":"Wakefit Wardrobe",
+        "productDetails":" 1 Year Warranty | Wardrobe Wooden, Almirah, Cupboard, Wooden Wardrobe, Almari, Gingham 4 Door, Mirror, 1 Drawer and 1 Hanging Space, 18MM Panels (Columbian Walnut)",
+        "imagePath":"/images/furnitures/wardrobe-1.jpg",
+        "storeName":"Wakefit",
+        "brandWebsiteUrl":"https://www.wakefit.co/furniture-store?srsltid=AfmBOopVL_f4Peo0eQ9fFy2Cx40q7yQgdiUQbKf5Vv42fVLXqkHascb-",
+        "lastMonthSale":100,
+        "discount":18,
+        "price":19998
+    },
+    {
+        "category":"Furniture",
+        "productName":"Wakefit Study Table",
+        "productDetails":"1 Year Warranty | Computer Table, Study Table with Book Shelf, Office Table, Study Table for Adults, Table with 5 Shelves and Free Installation(Sage - Columbian Walnut Brown)",
+        "imagePath":"/images/furnitures/study-table-1.jpg",
+        "storeName":"Wakefit",
+        "brandWebsiteUrl":"https://www.wakefit.co/furniture-store?srsltid=AfmBOopVL_f4Peo0eQ9fFy2Cx40q7yQgdiUQbKf5Vv42fVLXqkHascb-",
+        "lastMonthSale":100,
+        "discount":23,
+        "price":6998
+    },
+    {
+        "category":"Furniture",
+        "productName":"Wakefit Book Shelf",
+        "productDetails":"1 Year Warranty | Book Shelf for Home Library, Book Shelf, Book Shelf for Wall, Book Stand, Engineered Wood, Matte Finish, 9 Shelve - Wilde (White & Walnut)",
+        "imagePath":"/images/furnitures/book-shelf-1.jpg",
+        "storeName":"Wakefit",
+        "brandWebsiteUrl":"https://www.wakefit.co/furniture-store?srsltid=AfmBOopVL_f4Peo0eQ9fFy2Cx40q7yQgdiUQbKf5Vv42fVLXqkHascb-",
+        "lastMonthSale":150,
+        "discount":25,
+        "price":6098
+    },
+    {
+        "category":"Furniture",
+        "productName":"Wakefit Bed",
+        "productDetails":"Queen (78 X 60) Engineered Wood Bed with Storage, 1 Year Warranty | - Taurus - Columbian Walnut",
+        "imagePath":"/images/furnitures/bed-2.jpg",
+        "storeName":"Wakefit",
+        "brandWebsiteUrl":"https://www.wakefit.co/furniture-store?srsltid=AfmBOopVL_f4Peo0eQ9fFy2Cx40q7yQgdiUQbKf5Vv42fVLXqkHascb-",
+        "lastMonthSale":100,
+        "discount":11,
+        "price":11698
+    },
+    {
+        "category":"Furniture",
+        "productName":"Green Soul Gaming Chair",
+        "productDetails":"Green Soul Raptor 2.0 Racing Edition Ergonomic Gaming Chair with Premium PU Leather, Adjustable Neck & Lumbar Pillow, 3D Adjustable Armrests & Heavy Duty Nylon Base (Black) Installation Provided",
+        "imagePath":"/images/furnitures/chair-1.jpg",
+        "storeName":"Green Soul",
+        "brandWebsiteUrl":"https://www.greensoul.online/?srsltid=AfmBOoo45UQfIwWfb29YC-B-FYJOR02bhiDvfDwe9pslmFV3qRhLabHj",
+        "lastMonthSale":100,
+        "discount":54,
+        "price":10999
+    },
+    {
+        "category":"Clothes",
+        "productName":"The Souled Store G T-Shirt",
+        "productDetails":"The Souled Store Official Breaking Bad: Jesse and Walter Oversized T-Shirts | Cotton | Oversized Fit | Short Sleeve | Standard Length | Collarless | High Definition Print | Homegrown Indian Brand",
+        "imagePath":"/images/clothes/t-shirt-1.jpg",
+        "storeName":"The Souled Store",
+        "brandWebsiteUrl":"https://www.thesouledstore.com/men",
+        "lastMonthSale":50,
+        "discount":47,
+        "price":799
+    },
+    {
+        "category":"Clothes",
+        "productName":"BEYOUNG Cargo Pants",
+        "productDetails":"BEYOUNG Cargo Pants for Men | Cotton Blend | Long Length | Twill Weave Fabric | Superior Stretchability | Roomy Pockets | Functional Fashion - from outdoor adventures to relaxed everyday wear",
+        "imagePath":"/images/clothes/cargo-pant-1.jpg",
+        "storeName":"",
+        "brandWebsiteUrl":"https://www.thesouledstore.com/men",
+        "lastMonthSale":50,
+        "discount":57,
+        "price":1299
+    },
+    {
+        "category":"Clothes",
+        "productName":"The Souled Store Shirt",
+        "productDetails":"The Souled Store Plaid: Glacier Grey Men Relaxed Shirts | Cotton | Relaxed fit | Long sleeve | Standard length | Collared neck | Relaxed fit | High Definition Print | Homegrown Indian Brand",
+        "imagePath":"/images/clothes/shirt-1.jpg",
+        "storeName":"The Souled Store",
+        "brandWebsiteUrl":"https://www.thesouledstore.com/men",
+        "lastMonthSale":100,
+        "discount":35,
+        "price":1299
+    },
+    {
+        "category":"Clothes",
+        "productName":"London Hills Men's Jeans",
+        "productDetails":"London Hills Men's Jeans | Relaxed Pants | Denim Baggy Jeans | Cotten Blend | Standard Length | This Jeans are Loose Fit to provide you more comforts for any movements, Accurate to wear it in the Office, Casual Parties",
+        "imagePath":"/images/clothes/jeans-2.jpg",
+        "storeName":"London Hills",
+        "brandWebsiteUrl":"https://londonhills.in/",
+        "lastMonthSale":300,
+        "discount":70,
+        "price":599
+    },
+    {
+        "category":"Clothes",
+        "productName":"The Souled Store Hoodie",
+        "productDetails":"The Souled Store Official Joker: Wanted! Men and Boys Long Sleeve Hooded Neck Zipper Front Oversized Fit Hoodies | High Definition Print | Homegrown Indian Brand",
+        "imagePath":"/images/clothes/hoodie-1.jpg",
+        "storeName":"The Souled Store",
+        "brandWebsiteUrl":"https://www.thesouledstore.com/men",
+        "lastMonthSale":100,
+        "discount":29,
+        "price":1999
+    },
+    {
+        "category":"Clothes",
+        "productName":"The Souled Store B T-Shirt",
+        "productDetails":"The Souled Store Men Official Scooby Doo: Scooby Love Brown Printed Oversized Full Sleeve T-Shirts | High Definition Print | Homegrown Indian Brand",
+        "imagePath":"/images/clothes/t-shirt-2.jpg",
+        "storeName":"Souled Store",
+        "brandWebsiteUrl":"https://www.thesouledstore.com/men",
+        "lastMonthSale":50,
+        "discount":41,
+        "price":999
+    },
+    {
+        "category":"Grocery",
+        "productName":"Fresh Banana",
+        "productDetails":"Fresh Banana Karpooravalli | 500 g | Graded, sorted and premium quality fruits and vegetables | Fresh, hygienic and natural",
+        "imagePath":"/images/grocery/banana-1.jpg",
+        "storeName":"Madras Mandi",
+        "brandWebsiteUrl":"https://madrasmandi.in/?srsltid=AfmBOor3Ezkv7Er-Ugea79ZTj-RsIHpOsNuMGVD35hnGrjfvordqbgbm",
+        "lastMonthSale":300,
+        "discount":31,
+        "price":43
+    },
+    {
+        "category":"Grocery",
+        "productName":"Fresh Apple",
+        "productDetails":"Fresh Apple Royal Gala 4 Pieces Pack | Approx. 520g | Standard good quality specifications (130gm/pc) | Taste fruity and sweet with light notes of tartness | Fresh, hygienic and natural ",
+        "imagePath":"/images/grocery/apple-1.jpg",
+        "storeName":"Madras Mandi",
+        "brandWebsiteUrl":"https://madrasmandi.in/?srsltid=AfmBOor3Ezkv7Er-Ugea79ZTj-RsIHpOsNuMGVD35hnGrjfvordqbgbm",
+        "lastMonthSale":500,
+        "discount":37,
+        "price":149
+    },
+    {
+        "category":"Grocery",
+        "productName":"Fresh Grapes",
+        "productDetails":"Fresh Grapes Sharad Seedless | 500 g | Low on calories and rich in vitamin A, C and B6 | Fresh, hygienic and natural",
+        "imagePath":"/images/grocery/grapes-1.jpg",
+        "storeName":"Madras Mandi",
+        "brandWebsiteUrl":"https://madrasmandi.in/?srsltid=AfmBOor3Ezkv7Er-Ugea79ZTj-RsIHpOsNuMGVD35hnGrjfvordqbgbm",
+        "lastMonthSale":500,
+        "discount":29,
+        "price":119
+    },
+    {
+        "category":"Grocery",
+        "productName":"Fresh Guava",
+        "productDetails":"Fresh Guava (Amrudh) | 500g | Rich in Vitamins A,C, folate, fiber and lycopene | Fresh, hygienic and natural",
+        "imagePath":"/images/grocery/guava-1.jpg",
+        "storeName":"Madras Mandi",
+        "brandWebsiteUrl":"https://madrasmandi.in/?srsltid=AfmBOor3Ezkv7Er-Ugea79ZTj-RsIHpOsNuMGVD35hnGrjfvordqbgbm",
+        "lastMonthSale":200,
+        "discount":28,
+        "price":42
+    },
+    {
+        "category":"Grocery",
+        "productName":"Fresh Sapota",
+        "productDetails":"Fresh Sapota | 500g | Rich in vitamin A, C, niacin, folate, potassium and iron | Contains anti-inflammatory properties and act as detoxifying agents | Fresh, hygienic and natural",
+        "imagePath":"/images/grocery/sapota-1.jpg",
+        "storeName":"Madras Mandi",
+        "brandWebsiteUrl":"https://madrasmandi.in/?srsltid=AfmBOor3Ezkv7Er-Ugea79ZTj-RsIHpOsNuMGVD35hnGrjfvordqbgbm",
+        "lastMonthSale":100,
+        "discount":39,
+        "price":51
+    },
+    {
+        "category":"Grocery",
+        "productName":"Fresh Blueberry",
+        "productDetails":"Fresh Blueberry | 125g | Graded, sorted and quality fruits and vegetables | Fresh, hygienic and natural",
+        "imagePath":"/images/grocery/blueberry-1.jpg",
+        "storeName":"Madras Mandi",
+        "brandWebsiteUrl":"https://madrasmandi.in/?srsltid=AfmBOor3Ezkv7Er-Ugea79ZTj-RsIHpOsNuMGVD35hnGrjfvordqbgbm",
+        "lastMonthSale":200,
+        "discount":34,
+        "price":269
+    }
+
+  
+
+]

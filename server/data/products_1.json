@@ -1,0 +1,137 @@
+[
+    {
+        "category":"fruits",
+        "productName":"apple",
+        "brand":"kpn fresh",
+        "price":210,
+        "origin":"jammu kashmir",
+        "seller":"amazon",
+        "stock":100
+    },
+    {
+        "category":"fruits",
+        "productName":"orange",
+        "brand":"himalaya fruits",
+        "price":110,
+        "origin":"jammu kashmir",
+        "seller":"amazon",
+        "stock":120
+    },
+    {
+        "category":"fruits",
+        "productName":"strawberry",
+        "brand":"kpn fresh",
+        "price":250,
+        "origin":"jammu kashmir",
+        "seller":"amazon",
+        "stock":130
+    },
+    {
+        "category":"fruits",
+        "productName":"grapes",
+        "brand":"kpn fresh",
+        "price":120,
+        "origin":"jammu kashmir",
+        "seller":"amazon",
+        "stock":130
+    },
+    {
+        "category":"fruits",
+        "productName":"Gooseberry",
+        "brand":"kpn fresh",
+        "price":70,
+        "origin":"jammu kashmir",
+        "seller":"amazon",
+        "stock":130
+    },
+    {
+        "category":"clothes",
+        "productName":"t-shirt",
+        "brand":"levis",
+        "price":450,
+        "origin":"england",
+        "seller":"amazon",
+        "stock":130
+    },
+    {
+        "category":"clothes",
+        "productName":"black jean",
+        "brand":"zara",
+        "price":700,
+        "origin":"australia",
+        "seller":"amazon",
+        "stock":170
+    },
+    {
+        "category":"clothes",
+        "productName":"blue checked shirt",
+        "brand":"zudio",
+        "price":340,
+        "origin":"india",
+        "seller":"amazon",
+        "stock":200
+    },
+    {
+        "category":"clothes",
+        "productName":"black t-shirt",
+        "brand":"zudio",
+        "price":550,
+        "origin":"india",
+        "seller":"amazon",
+        "stock":200
+    },
+    {
+        "category":"clothes",
+        "productName":"blue shirt",
+        "brand":"west side",
+        "price":1200,
+        "origin":"india",
+        "seller":"amazon",
+        "stock":200
+    },
+    {
+        "category":"electronics",
+        "productName":"bluetooth speaker",
+        "brand":"boat",
+        "price":1250,
+        "origin":"india",
+        "seller":"amazon",
+        "stock":30
+    },
+    {
+        "category":"electronics",
+        "productName":"home theatre",
+        "brand":"sony",
+        "price":2050,
+        "origin":"japan",
+        "seller":"amazon",
+        "stock":75
+    },
+    {
+        "category":"electronics",
+        "productName":"earbuds",
+        "brand":"boult",
+        "price":1800,
+        "origin":"south korea",
+        "seller":"amazon",
+        "stock":75
+    },
+    {
+        "category":"electronics",
+        "productName":"headphone",
+        "brand":"sony",
+        "price":3500,
+        "origin":"japan",
+        "seller":"amazon",
+        "stock":75
+    },
+    {
+        "category":"electronics",
+        "productName":"headset",
+        "brand":"sony",
+        "price":1200,
+        "origin":"japan",
+        "seller":"amazon",
+        "stock":75
+    }
+]

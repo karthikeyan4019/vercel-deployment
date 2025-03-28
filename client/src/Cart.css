@@ -1,0 +1,129 @@
+.place-order-btn
+{
+    background-color:dodgerblue;
+    margin: 30px;
+}
+.login-cart
+{
+    margin-top:50px;
+}
+.login-image
+{
+    width: 40%;
+}
+.login-cart-btn
+{
+    width:30%;
+    padding: 10px;
+    margin-bottom: 50px;
+    border-radius: 30px;
+    color: white;
+    border:1px solid dodgerblue;
+    background-color: dodgerblue;
+}
+.login-cart-btn:hover
+{
+    box-shadow:0px 0px 20px dodgerblue;
+}
+.empty-cart-title
+{
+    margin-bottom: 50px;
+}
+.empty-cart-image
+{
+    width:25%;
+    margin-top:50px;
+}
+.continue-shopping-btn
+{
+  padding:10px 100px;
+  border:1px solid dodgerblue;
+  border-radius:30px;
+  background-color:dodgerblue;
+  color: white;
+  margin-bottom:50px;
+}
+.continue-shopping-btn:hover
+{
+  box-shadow:0px 0px 20px dodgerblue;
+}
+.cart-title
+{
+    margin-top:25px;
+    margin-bottom:50px;
+}
+.productImage
+{
+    width:35%;
+    height:100%;
+}
+.productDetails
+{
+    text-align: left;
+}
+.currency-rupee
+{
+    font-size:20px;
+}
+.item-inc-dec-btn
+{
+    margin-top: 30px;
+    border-radius: 30px;
+    padding:1px 15px;
+    border: 1px solid white;
+    box-shadow: 0px 0px 15px black;
+}
+.item-count-text
+{
+    font-size: 22px;
+}
+.dec-btn
+{
+    margin: 0px 15px;
+    font-size: 30px;
+}
+.dec-btn:hover
+{
+  color: red;
+}
+.inc-btn
+{
+    margin: 0px 15px;
+    font-size: 23px;
+}
+.inc-btn:hover
+{
+    color:red;
+}
+.proceed-to-buy-btn
+{
+    width:20%;
+    padding:15px;
+    border-radius: 30px;
+    margin-top: 36px;
+    margin-bottom:50px;
+    color: white;
+    background-color: dodgerblue;
+    border: 1px solid dodgerblue;
+    box-shadow: 0px 0px 15px rgb(0, 0, 0);
+}
+.proceed-to-buy-btn:hover
+{
+    color:rgb(255, 255, 255);
+    background-color: dodgerblue;
+    border: 1px solid dodgerblue;
+    box-shadow: 0px 0px 25px dodgerblue;
+}
+.totol-amount-cont
+{
+    padding:10px 0px;
+    background-color: #d0e8ff;
+}
+.total-amount-text,.total-amount
+{
+    margin-bottom: 0px;
+}
+.currency-rupee-total-amount
+{
+    font-size:17px;
+}

@@ -1,0 +1,65 @@
+const addressModel=require("../models/addressModel");
+exports.saveAddress=(req,res,next)=>
+{
+  let{userName,
+      phoneNo,
+      email,
+      houseNo,
+      apartmentName,
+      blockName,
+      areaName,
+      cityName,
+      pincode,
+      state,
+      country,
+      saveAddress
+  }=req.body;
+  try
+  {
+    let saveUserAddress=addressModel.insertMany(
+        {
+            userName:userName,
+            phoneNo:phoneNo,
+            email:email,
+            houseNo:houseNo,
+            apartmentName:apartmentName,
+            blockName:blockName,
+            areaName:areaName,
+            cityName:cityName,
+            pincode:pincode,
+            state:state,
+            country:country
+        }
+      );
+      res.json({
+        message:"SUCCESS"
+      });
+  }
+  catch(error)
+  {
+    res.json({
+        message:error.message
+    });
+  }
+}
+exports.getUserAddress=async(req,res,next)=>
+{
+  let{userName}=req.query;
+  try
+  {
+    let userAddress=await addressModel.find(
+      {
+        userName:userName
+      }
+    );
+    res.json({
+      userAddress:userAddress
+    });
+  }
+  catch(error)
+  {
+    res.json({
+      message:error.message
+    });
+  }
+}

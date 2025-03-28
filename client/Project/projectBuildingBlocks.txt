@@ -1,0 +1,12 @@
+react-toastify
+
+1.steps to use
+  1.install the library
+   npm install react-toastify
+  2.import the ToastContainer component and toast function
+   import{ToastContainer,toast}from"react-toastify";
+  3.Refer chatgpt response for react-toastify (read entire response for better understanding)
+   title:React_Toastify Overview
+  4.Refer this also:
+    1.https://www.npmjs.com/package/react-toastify,
+    2.https://fkhadra.github.io/react-toastify/introduction/

@@ -1,0 +1,98 @@
+.footer
+{
+    background-color: black;
+    color: white;
+    padding-bottom:2%;
+}
+.footer-row-1
+{
+    display: flex;
+    margin-bottom:1%;
+    font-size: 15px;
+}
+.social-media-icon
+{
+    margin: 0px 10px;
+}
+.footer-row-2
+{
+    background-color: white;
+    display: flex;
+    padding-top:11px;
+    padding-bottom:5px;
+}
+.footer-row-3
+{
+    display: flex;
+    justify-content: center;
+    margin-top:2%;
+    font-size: 14px;
+}
+.footer-row-4
+{
+    text-align: center;
+    margin-top: 15px;
+    font-size: 14px;
+}
+.footer h3
+{
+    /* padding: 10% 0%; */
+    padding-top: 14%;
+    padding-bottom: 5%;
+    font-family: "Acme", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size:18px;
+}
+.copyright-icon
+{
+  font-size: 20px;
+}
+.copyright-text
+{
+    margin: 0px 7px;
+}
+.footer p span
+{
+    font-family: "Sour Gummy", sans-serif;
+}
+.footer-item
+{
+    width: 100%;
+}
+.footer-links
+{
+    display: inline-block;
+    margin-bottom: 16px;
+    color: white;
+}
+.footer-links:hover
+{
+    color: blue;
+}
+.brand-logo
+{
+    width: 10%;
+    padding-bottom: 4px;
+    margin-right:35px;
+}
+.country_flag
+{
+    width: 2%;
+    height: 45%;
+    margin: 0px 10px;
+    /* height: 0%; */
+}
+/* .personal-i
+{
+    margin: 0px 10px;
+} */
+.personal-i-icon
+{
+    margin-left: 20px;
+    margin-right:7px ;
+}
+.institute-name
+{
+    margin-top: 14px;
+}

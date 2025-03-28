@@ -1,0 +1,87 @@
+.user-account-parent
+{
+    background-color:#d0e8ff;
+    padding:10px;
+}
+.user-account-child
+{
+    padding: 30px;
+    background-color: white;
+    border: 1px solid #d0e8ff;
+    border-radius: 10px;
+}
+.personal-data-section
+{
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 19px;
+}
+.personal_data
+{
+    width:70%;
+    height:72%;
+}
+.personal-data-form-btn
+{
+    padding:2% 38%;
+}
+.user-profile-img
+{
+    width:30%;
+}
+.username-profile
+{
+    margin-bottom:30px;
+}
+.user-specific-details-section>h5
+{
+    text-align: left;
+    /* margin-bottom: 0px; */
+}
+.user-specific-details-section>h6
+{
+    text-align: left;
+    margin-bottom: 0px;
+}
+.user-specific-details-section
+{
+    margin: 15px 0px;
+    padding:30px;
+    border:1px solid white;
+    border-radius:15px;
+    box-shadow:0px 0px 10px black;
+}
+.user-pages-section
+{
+  /* margin:0px 10px; */
+}
+.user-shopping-profile-img
+{
+    width:71%;
+}
+.order-profile
+{
+    margin:28px 0px;
+    padding:42px 0px;
+    color: black;
+    border: 1px solid white;
+    box-shadow: 0px 0px 10px black;
+    border-radius: 15px;
+}
+.double-arrow-symbol
+{
+    font-size:50px;
+}
+.order-profile>h5
+{
+    margin-bottom: 0px;
+}
+.log-out-btn-section
+{
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.log-out-btn
+{
+   padding:10px 100px;
+}

@@ -1,0 +1,127 @@
+*
+{
+    text-align:left;
+}
+.parent
+{
+    background-color: #d0e8ff;
+    padding: 10px;
+}
+.child
+{
+    padding:30px;
+    background-color: white;
+    border:1px solid #d0e8ff ;
+    border-radius:10px;
+}
+.user-address-section,.order-summary-section
+{
+    margin-bottom: 10px;
+}
+.user-address-section,.order-summary-section
+{
+    display: flex;
+}
+.section-title
+{
+    width:25%;
+}
+.section-title>h3,.section-address-content>h6,.section-order-summary-content>h6
+{
+    text-align: left;
+}
+.section-address-content
+{
+    /* width:26%; */
+    margin-top:7px;
+}
+.section-order-summary-content
+{
+    width:18%;
+    margin-top:7px;
+}
+.total-products-count
+{
+    margin-left:10px;
+}
+.payment-currency-rupee
+{
+    font-size:11px;
+    color: black;
+}
+.payment-total-amount
+{
+    color:red;
+    text-align: left;
+    padding-top:10px;
+}
+.free-delivery
+{
+    color:#00bf00;
+}
+.child3
+{
+    display: flex;
+}
+.cod-section-contents
+{
+    width:45%;
+}
+.cod-section-area
+{
+    border: 1px solid gray;
+    border-radius:7px;
+    padding:15px 15px 12px 15px;
+    height: 56px;
+    overflow: hidden;
+    transition:height 1s;
+    
+}
+.cod-section-area:hover
+{
+   height: 142px;
+}
+.cod-section-area:hover .cod-downward-symbol
+{
+  transform: rotate(180deg);
+  color:red;
+}
+.cod-section-area-contents
+{
+    display:flex;
+    margin-bottom: 13px;
+}
+.cod-symbol
+{
+    font-size:27px;
+    margin-left:10px;
+}
+.cod-title
+{
+    margin-left: 15px;
+    margin-bottom:0px;
+    font-size:20px;
+}
+.cod-downward-symbol
+{
+    font-size:28px;
+    margin-left:63%;
+    transition:all 1s;
+}
+.cod-order-confirm-btn-section
+{
+    display: block;
+    width: 100%;
+    border-radius:7px;
+    padding:3%;
+    background-color: #e4e4e4;
+}
+.order-confirm-btn
+{
+    padding:5px 43%;
+}
+.order-confirm-btn:hover
+{
+    box-shadow:0px 0px 15px dodgerblue;
+}
+

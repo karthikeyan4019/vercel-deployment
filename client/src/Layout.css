@@ -1,0 +1,195 @@
+/* Header */
+*
+{
+    font-family: "Signika Negative", sans-serif;
+    font-optical-sizing: auto;
+}
+nav
+{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    padding: 17px 10px;
+    box-shadow:0px 0px 5px black;
+}
+.brand-logo
+{
+    width:10%;
+    padding-bottom: 2px;
+}
+.home-button
+{
+  width:5%;
+}
+h1
+{
+    margin:0px;
+}
+a
+{
+  text-decoration: none;
+}
+#category
+{
+    border: 2px solid black;
+    padding: 2%;
+    border-radius: 13px 0px 0px 13px;
+}
+#search-box
+{
+    padding: 2% 23%;
+    border: 1px solid black;
+}
+#search-button
+{
+    padding: 2% 4%;
+    border:1px solid black;
+    border-radius: 0px 13px 13px 0px;
+}
+.nav-links
+{
+    color: black;
+    display:flex;
+}
+.user-account-nav-link
+{
+  cursor: pointer;
+}
+.home
+{
+    font-size:32px;
+}
+.nav-link-text
+{
+    margin: 0px 7px;
+}
+#options
+{
+    text-align: left;
+}
+#fp1
+{
+    width:50%;
+}
+#card-parent
+{
+    padding:30px 30px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+#card
+{
+    width:355px ;
+    height: 310px;
+    padding:40px;
+    margin:65px;
+    box-shadow:0px 0px 20px black;
+}
+#card>p
+{
+    text-align: left;
+}
+.empty-product-message-container
+{
+    width:100%;
+    padding: 5% 0%;
+}
+#empty-products-message
+{
+    color: red;
+    text-align: center;
+}
+/* Footer */
+.footer
+{
+    background-color: black;
+    color: white;
+    padding-bottom:2%;
+}
+.footer-row-1
+{
+    display: flex;
+    margin-bottom:1%;
+    font-size: 15px;
+}
+.social-media-icon
+{
+    margin: 0px 10px;
+}
+.footer-row-2
+{
+    background-color: white;
+    display: flex;
+    padding-top:11px;
+    padding-bottom:5px;
+}
+.footer-row-3
+{
+    display: flex;
+    justify-content: center;
+    margin-top:2%;
+    font-size: 14px;
+}
+.footer-row-4
+{
+    text-align: center;
+    margin-top: 15px;
+    font-size: 14px;
+}
+.footer h3
+{
+    padding-top: 14%;
+    padding-bottom: 5%;
+    font-family: "Acme", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size:18px;
+}
+.copyright-icon
+{
+  font-size: 20px;
+}
+.copyright-text
+{
+    margin: 0px 7px;
+}
+.footer p span
+{
+    font-family: "Sour Gummy", sans-serif;
+}
+.footer-item
+{
+    width: 100%;
+}
+.footer-links
+{
+    display: inline-block;
+    margin-bottom: 16px;
+    color: white;
+}
+.footer-links:hover
+{
+    color: blue;
+}
+.brand-logo
+{
+    width: 10%;
+    padding-bottom: 4px;
+    margin-right:35px;
+}
+.country_flag
+{
+    width: 2%;
+    height: 45%;
+    margin: 0px 10px;
+}
+.personal-i-icon
+{
+    margin-left: 20px;
+    margin-right:7px ;
+}
+.institute-name
+{
+    margin-top: 14px;
+}

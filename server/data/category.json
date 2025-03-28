@@ -1,0 +1,28 @@
+[
+    {
+        "category":"Laptops",
+        "imagePath":"/images/categories/laptops.jpg"
+
+    },
+    {
+        "category":"Mobiles",
+        "imagePath":"/images/categories/mobiles.png"
+
+    },
+    {
+        "category":"Cameras",
+         "imagePath":"/images/categories/cameras.jpg"
+    },
+    {
+        "category":"Furniture",
+        "imagePath":"/images/categories/furniture.jpg"
+    },
+    {
+        "category":"Clothes",
+        "imagePath":"/images/categories/clothes.png"
+    },
+    {
+        "category":"Grocery",
+        "imagePath":"/images/categories/grocery.jpg"
+    }
+]
