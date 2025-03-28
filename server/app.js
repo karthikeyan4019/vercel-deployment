@@ -13,9 +13,15 @@ app.use(express.urlencoded({extended:true}));
 
 const connectDatabase=require("./config/connectDatabase");
 
-const corsOption={
-    origin:"*"    
-}
+// const corsOption={
+//     origin:"*"    
+// }
+// app.use(cors(corsOption));
+const corsOption = {
+    origin: process.env.CLIENT_URL || "*",  // Use CLIENT_URL from env
+    credentials: true,  // Allows cookies (if needed)
+};
+
 app.use(cors(corsOption));
 
 // change the PORT PORT PORT-----------------------------------------
