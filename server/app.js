@@ -13,33 +13,33 @@ app.use(express.urlencoded({extended:true}));
 
 const connectDatabase=require("./config/connectDatabase");
 
-// Allow multiple frontend origins
-const allowedOrigins = [
-    'https://kuvizz-app-client.vercel.app', 
-    'https://kuvizz-app-client-bqhs9kb34-karthikeyan-ks-projects-964659e9.vercel.app'
-  ];
+// // Allow multiple frontend origins
+// const allowedOrigins = [
+//     'https://kuvizz-app-client.vercel.app', 
+//     'https://kuvizz-app-client-bqhs9kb34-karthikeyan-ks-projects-964659e9.vercel.app',
+//   ];
   
-  app.use(cors({
-    origin: function (origin, callback) {
-      if (!origin || allowedOrigins.includes(origin)) {
-        callback(null, true);
-      } else {
-        callback(new Error('Not allowed by CORS'));
-      }
-    },
-    methods: 'GET,POST,PUT,DELETE',
-    credentials: true,
-  }));
+//   app.use(cors({
+//     origin: function (origin, callback) {
+//       if (!origin || allowedOrigins.includes(origin)) {
+//         callback(null, true);
+//       } else {
+//         callback(new Error('Not allowed by CORS'));
+//       }
+//     },
+//     methods: 'GET,POST,PUT,DELETE',
+//     credentials: true,
+//   }));
 
 // const corsOption={
 //     origin:"*"    
 // }
 
-// app.use(cors({
-//     origin: ['https://kuvizz-app-client.vercel.app', 'https://kuvizz-app-client-7yvn981ac-karthikeyan-ks-projects-964659e9.vercel.app'],
-//     methods: 'GET,POST,PUT,DELETE',
-//     credentials: true,
-//   }));
+app.use(cors({
+    origin: ['https://kuvizz-app-client.vercel.app', 'https://kuvizz-app-client-7yvn981ac-karthikeyan-ks-projects-964659e9.vercel.app'],
+    methods: 'GET,POST,PUT,DELETE',
+    credentials: true,
+  }));
 // app.use(cors(corsOption));
 // const corsOption = {
 //     origin: process.env.CLIENT_URL || "*",  // Use CLIENT_URL from env
