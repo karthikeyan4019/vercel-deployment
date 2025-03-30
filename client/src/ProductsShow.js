@@ -41,7 +41,7 @@ function ProductsShow()
   {
     try
     {
-     let totalProducts=await fetch(`http://localhost:8000/api/v1/filter?category=${(x)}&search=${(z)}&min_price=${(min_price)}&max_price=${(max_price)}`); 
+     let totalProducts=await fetch(`https://kuvizz-app-server.onrender.com/api/v1/filter?category=${(x)}&search=${(z)}&min_price=${(min_price)}&max_price=${(max_price)}`); 
      let totalProductsData=await totalProducts.json();
     // console.log(totalProductsData);
     // setEntireProducts(totalProductsData.PRODUCTS);
@@ -67,7 +67,7 @@ const getCartItems=async()=>
   {
     try
     {
-       let cartItemsInfo=await fetch(`http://localhost:8000/api/v1/cart/getcartitems?userName=${userName}`);
+       let cartItemsInfo=await fetch(`https://kuvizz-app-server.onrender.com/api/v1/cart/getcartitems?userName=${userName}`);
        let cartItemsData=await cartItemsInfo.json();
        if(cartItemsData)
        {
@@ -84,7 +84,7 @@ const insertItems=async(value)=>
 {
   try
   {
-    const itemInfo=await fetch("http://localhost:8000/api/v1/cart/insertitems",
+    const itemInfo=await fetch("https://kuvizz-app-server.onrender.com/api/v1/cart/insertitems",
       {
         method:"PUT",
         headers:{
@@ -122,7 +122,7 @@ const updateCartItems=async(productName,itemCount)=>
   // console.log(userName,productName,itemCount);
   try
   {
-    let updatedItemInfo=await fetch("http://localhost:8000/api/v1/cart/updateCartItems",
+    let updatedItemInfo=await fetch("https://kuvizz-app-server.onrender.com/api/v1/cart/updateCartItems",
     {
       method:"PUT",
       headers:{
@@ -148,7 +148,7 @@ const deleteCartItems=async(productName)=>
 {
   try
   {
-    let deletedCartItemInfo=await fetch("http://localhost:8000/api/v1/cart/deleteCartItems",
+    let deletedCartItemInfo=await fetch("https://kuvizz-app-server.onrender.com/api/v1/cart/deleteCartItems",
       {
         method:"DELETE",
         headers:{
