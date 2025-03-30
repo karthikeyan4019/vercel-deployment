@@ -13,10 +13,16 @@ app.use(express.urlencoded({extended:true}));
 
 const connectDatabase=require("./config/connectDatabase");
 
-const corsOption={
-    origin:"*"    
-}
-app.use(cors(corsOption));
+// const corsOption={
+//     origin:"*"    
+// }
+
+app.use(cors({
+    origin: ['https://kuvizz-app-client.vercel.app', 'https://kuvizz-app-client-7yvn981ac-karthikeyan-ks-projects-964659e9.vercel.app'],
+    methods: 'GET,POST,PUT,DELETE',
+    credentials: true,
+  }));
+// app.use(cors(corsOption));
 // const corsOption = {
 //     origin: process.env.CLIENT_URL || "*",  // Use CLIENT_URL from env
 //     credentials: true,  // Allows cookies (if needed)
