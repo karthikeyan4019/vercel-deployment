@@ -21,7 +21,7 @@ const Layout=()=>
   {
     try
     {
-      let responsemetadata=await fetch("http://localhost:8000/api/v1/category"); 
+      let responsemetadata=await fetch("https://kuvizz-app-server.onrender.com/api/v1/category"); 
       let actualdata=await responsemetadata.json();
       // console.log(actualdata);
       if(actualdata)
