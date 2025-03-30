@@ -12,7 +12,7 @@ const Signup=()=>
     {
       try
       {
-        const signup=await fetch("http://localhost:8000/api/v1/signup",
+        const signup=await fetch("https://kuvizz-app-server.onrender.com/api/v1/signup",
         {
           method:"PUT",
           headers:{

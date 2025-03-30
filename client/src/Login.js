@@ -19,7 +19,7 @@ const Login=()=>
     {
       try
       {
-        const login=await fetch("http://localhost:8000/api/v1/login",
+        const login=await fetch("https://kuvizz-app-server.onrender.com/api/v1/login",
             {
                 method:"POST",
                 headers:{
