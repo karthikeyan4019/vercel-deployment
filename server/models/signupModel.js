@@ -1,6 +1,6 @@
 const mongoose=require("mongoose");
 const { string } = require("yup");
-const bcrypt=require("bcrypt");
+const bcrypt=require("bcryptjs");
 const signupSchema=new mongoose.Schema(
     {
         // name:{
