@@ -47,10 +47,10 @@ function Header()
     {
         try
         {
-          let responsemetadata=await fetch("http://localhost:8000/api/v1/category"); 
+          let responsemetadata=await fetch("https://kuvizz-app-server.onrender.com/api/v1/category"); 
           let actualdata=await responsemetadata.json();
           // console.log(actualdata);
-          let totalProducts=await fetch(`http://localhost:8000/api/v1/filter?category=${encodeURIComponent(choosedCategory)}&search=${encodeURIComponent(search)}&min_price=${encodeURIComponent(min_price)}&max_price=${encodeURIComponent(max_price)}`); 
+          let totalProducts=await fetch(`https://kuvizz-app-server.onrender.com/api/v1/filter?category=${encodeURIComponent(choosedCategory)}&search=${encodeURIComponent(search)}&min_price=${encodeURIComponent(min_price)}&max_price=${encodeURIComponent(max_price)}`); 
           let totalProductsData=await totalProducts.json();
           // console.log(totalProductsData);
           if(actualdata)

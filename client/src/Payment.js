@@ -27,7 +27,7 @@ const Payment=()=>
       {
         try
         {
-          let cartItemsInfo=await fetch(`http://localhost:8000/api/v1/cart/getcartitems?userName=${userName}`);
+          let cartItemsInfo=await fetch(`https://kuvizz-app-server.onrender.com/api/v1/cart/getcartitems?userName=${userName}`);
           let cartItemsData=await cartItemsInfo.json();
           if(cartItemsData)
           {
@@ -44,7 +44,7 @@ const Payment=()=>
       {
         try
         {
-          const insertOrItems=await fetch("http://localhost:8000/api/v1/order/createOrder",
+          const insertOrItems=await fetch("https://kuvizz-app-server.onrender.com/api/v1/order/createOrder",
           {
             method:"PUT",
             headers:{

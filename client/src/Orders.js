@@ -19,7 +19,7 @@ const Orders=()=>
     {
         try
         {
-          let orderedItemsInfo=await fetch(`http://localhost:8000/api/v1/order/getOrderedItems?userName=${userName}`);
+          let orderedItemsInfo=await fetch(`https://kuvizz-app-server.onrender.com/api/v1/order/getOrderedItems?userName=${userName}`);
           let orderedItemsData=await orderedItemsInfo.json();
           if(orderedItemsData)
           {

@@ -21,7 +21,7 @@ const UserAccount=()=>
         {
           try
           {
-            let userAddressInfo=await fetch(`http://localhost:8000/api/v1/address/getUserAddress?userName=${userName}`);
+            let userAddressInfo=await fetch(`https://kuvizz-app-server.onrender.com/api/v1/address/getUserAddress?userName=${userName}`);
             let userAddressData=await userAddressInfo.json();
             if(userAddressData)
             {

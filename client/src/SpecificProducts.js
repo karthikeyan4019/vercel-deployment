@@ -15,7 +15,7 @@ const SpecificProducts=()=>
     {
      try
      {
-        let productsDataRaw=await fetch(`http://localhost:8000/api/v1/filter?category=${x}&min_price=${encodeURIComponent(min_price)}&max_price=${encodeURIComponent(max_price)}`);
+        let productsDataRaw=await fetch(`https://kuvizz-app-server.onrender.com/api/v1/filter?category=${x}&min_price=${encodeURIComponent(min_price)}&max_price=${encodeURIComponent(max_price)}`);
         let productsData=await productsDataRaw.json();
         // console.log(productsData);
         if(productsData)

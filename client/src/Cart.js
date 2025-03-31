@@ -24,7 +24,7 @@ const Cart=()=>
     {
         try
         {
-           let cartItemsInfo=await fetch(`http://localhost:8000/api/v1/cart/getcartitems?userName=${userName}`);
+           let cartItemsInfo=await fetch(`https://kuvizz-app-server.onrender.com/api/v1/cart/getcartitems?userName=${userName}`);
            let cartItemsData=await cartItemsInfo.json();
            if(cartItemsData)
            {
@@ -42,7 +42,7 @@ const Cart=()=>
       // console.log(userName,productName,itemCount);
       try
       {
-        let updatedItemInfo=await fetch("http://localhost:8000/api/v1/cart/updateCartItems",
+        let updatedItemInfo=await fetch("https://kuvizz-app-server.onrender.com/api/v1/cart/updateCartItems",
         {
           method:"PUT",
           headers:{
@@ -67,7 +67,7 @@ const Cart=()=>
     {
       try
       {
-        let deletedCartItemInfo=await fetch("http://localhost:8000/api/v1/cart/deleteCartItems",
+        let deletedCartItemInfo=await fetch("https://kuvizz-app-server.onrender.com/api/v1/cart/deleteCartItems",
           {
             method:"DELETE",
             headers:{
@@ -92,7 +92,7 @@ const Cart=()=>
     {
       try
       {
-        let userAddressInfo=await fetch(`http://localhost:8000/api/v1/address/getUserAddress?userName=${userName}`);
+        let userAddressInfo=await fetch(`https://kuvizz-app-server.onrender.com/api/v1/address/getUserAddress?userName=${userName}`);
         let userAddressData=await userAddressInfo.json();
         if(userAddressData)
         {

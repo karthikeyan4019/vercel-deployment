@@ -61,7 +61,7 @@ const Useraddress=()=>
   {
     try
     {
-      let addressInfo=await fetch("http://localhost:8000/api/v1/address/userAddress",
+      let addressInfo=await fetch("https://kuvizz-app-server.onrender.com/api/v1/address/userAddress",
       {
         method:"PUT",
         headers:{
