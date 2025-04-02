@@ -90,17 +90,18 @@
 {
     .order-profile
     {
-        margin:34px 0px;
+        margin:15px;
     }
     .personal-data-section
     {
       padding:9px;
     }
 }
-/* @media(max-width:139px)
+@media(max-width:1399px)
 {
     .order-profile
     {
-        margin:15px;
+        margin:34px 0px;
     }
-} */
+   
+}
