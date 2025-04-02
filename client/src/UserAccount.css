@@ -90,11 +90,7 @@
 {
     .personal-data-section
     {
-      padding:9px;
-    }
-    .personal-data-form-btn
-    {
-      padding:1% 38%;
+      padding:20px;
     }
 }
 @media(max-width:1399px)
@@ -103,5 +99,9 @@
     {
         margin:34px 0px;
     }
-   
+    .personal-data-section
+    {
+      padding:9x;
+    }
+    
 }
