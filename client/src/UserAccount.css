@@ -85,3 +85,11 @@
 {
    padding:10px 100px;
 }
+
+@media(max-width:1399px)
+{
+    .order-profile
+    {
+        margin:34px 0px;
+    }
+}
