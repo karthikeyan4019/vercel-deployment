@@ -86,22 +86,10 @@
    padding:10px 100px;
 }
 
-@media(max-width:1400px)
-{
-    .personal-data-section
-    {
-      padding:20px;
-    }
-}
 @media(max-width:1399px)
 {
     .order-profile
     {
-        margin:34px 0px;
+      margin:34px 0px;
     }
-    .personal-data-section
-    {
-      padding:9x;
-    }
-    
 }
