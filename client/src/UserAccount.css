@@ -88,13 +88,13 @@
 
 @media(max-width:1400px)
 {
-    .order-profile
-    {
-        margin:15px;
-    }
     .personal-data-section
     {
       padding:9px;
+    }
+    .personal-data-form-btn
+    {
+      padding:1% 38%;
     }
 }
 @media(max-width:1399px)
