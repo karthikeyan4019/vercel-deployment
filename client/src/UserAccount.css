@@ -86,7 +86,7 @@
    padding:10px 100px;
 }
 
-@media(max-width:1399px)
+@media(max-width:1400px)
 {
     .order-profile
     {
@@ -97,10 +97,10 @@
       padding:9px;
     }
 }
-@media(max-width:1398px)
+/* @media(max-width:139px)
 {
     .order-profile
     {
         margin:15px;
     }
-}
+} */
