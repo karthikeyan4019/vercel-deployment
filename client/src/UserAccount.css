@@ -92,4 +92,15 @@
     {
         margin:34px 0px;
     }
+    .personal-data-section
+    {
+      padding:9px;
+    }
+}
+@media(max-width:1398px)
+{
+    .order-profile
+    {
+        margin:15px;
+    }
 }
