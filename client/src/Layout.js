@@ -132,7 +132,7 @@ const Layout=()=>
                     <p>Furnitures</p>
                     <p>Cloths</p>
                     <p>Grocery</p>
-                    <p>And many more...</p>
+                    <p>And many ...</p>
                 </div>
                 <div className="footer-column-3 footer-item">
                     <h3>OFFLINE BRANCHES IN INDIA</h3>
