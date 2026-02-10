@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 //redux
-import {useSelector } from "react-redux";
+// import {useSelector } from "react-redux";
 // css file
 import"./ProductsShow.css";
 
